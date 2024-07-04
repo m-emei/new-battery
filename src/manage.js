@@ -37,10 +37,11 @@ const Manage = () => {
     })
   }, []);
   return (
-    <div className="app">
+    <div className="app" >
     <div className="container">
+      <h1>New Battery</h1>
       
-      <div className="card">
+      <div className="card" style={{marginTop:"40px"}}>
         <div className="card-title"></div>
         <div className="card-body">
           <table className="table table-bordered">

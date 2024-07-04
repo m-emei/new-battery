@@ -34,8 +34,11 @@ const Register = () => {
       margin:"40px",
         padding: "20px",
         marginLeft:"80px"}}>
+          <h1>New Battery</h1>
+
+
      
-      <Paper elevation={3} style={{ padding: "20px" }}>
+      <Paper elevation={3} style={{ padding: "20px", marginTop: "40px"}}>
         <Grid container spacing={2}>
           
           <Grid item xs={12} sm={6}>
