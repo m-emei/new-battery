@@ -1,23 +1,15 @@
 .App {
- 
   width: 100%;
- padding:0;
- margin-left: 0 auto;
-align-items: left;
- 
+  padding: 0;
+  margin-left: 0 auto;
+  align-items: left;
 }
 app {
-   max-width: "1000px";
-  margin:"40px";
-    padding: "20px";
-    margin-left:"80px";
+  max-width: "1000px";
+  margin: "40px";
+  padding: "20px";
+  margin-left: "80px";
 }
- 
-  
-
-
-
-
 
 role {
   text-align: center;
@@ -29,17 +21,16 @@ role {
 .button-container .btn {
   flex: 1;
 }
-.table{
+.table {
   border-collapse: collapse;
-  border:3px solid black;
-  border-spacing:1rem;
+  border: 3px solid black;
+  border-spacing: 1rem;
   max-width: 1000px;
-
 }
 nav {
   background: #ffdb58;
   height: 80px;
-  margin-top: 0 ;
+  margin-top: 0;
   width: 100%;
   margin-bottom: 60px;
 }
@@ -57,21 +48,19 @@ nav ul li a {
 
 nav ul {
   float: right;
-  
 }
 logo {
-  
   line-height: 80px;
   margin: 0 5px;
-  
-  
 }
-h1{
+h1 {
   font-weight: 500;
   margin-bottom: 40px;
   margin-left: 40px;
   margin: 40px;
 }
-.table tr, table td, .table th{
+.table tr,
+table td,
+.table th {
   border: 3px solid black;
 }
