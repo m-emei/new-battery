@@ -1,4 +1,5 @@
-import logo1 from "./logo/logo.jpg"
+//importing an image
+import logo1 from "./logo/logo.jpg";
 const Navbar = () => {
     return ( 
         <div>
